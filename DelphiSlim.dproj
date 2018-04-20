@@ -75,10 +75,10 @@
 			</BuildConfiguration>
 		</ItemGroup>
 		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')" Project="$(BDS)\Bin\CodeGear.Delphi.Targets"/>		
-		<!-- <Import Project="C:\Windows\Microsoft.NET\Framework\v3.5\Borland.Common.Targets"/>
-		<Import Project="C:\Windows\Microsoft.NET\Framework\v3.5\Borland.Cpp.Targets"/>		
-		<Import Project="C:\Windows\Microsoft.NET\Framework\v3.5\Borland.Group.Targets"/> -->
-		<Import Project="C:\Windows\Microsoft.NET\Framework\v3.5\Borland.Delphi.Targets"/>
+		<!-- <Import Project="C:\Windows\Microsoft.NET\Framework\v4.0.30319\Borland.Common.Targets"/>
+		<Import Project="C:\Windows\Microsoft.NET\Framework\v4.0.30319\Borland.Cpp.Targets"/>		
+		<Import Project="C:\Windows\Microsoft.NET\Framework\v4.0.30319\Borland.Group.Targets"/> -->
+		<Import Project="C:\Windows\Microsoft.NET\Framework\v4.0.30319\Borland.Delphi.Targets"/>
 		<Import Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj')" Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj"/>
 		<ProjectExtensions>
 			<Borland.Personality>Delphi.Personality.12</Borland.Personality>
