@@ -1,0 +1,7 @@
+{
+	"groupId": "com.tests",
+	"artifactId": "delphi-test",
+	"version": "1.0.0-SNAPSHOT",
+	"packaging": "exe",
+	"file": "result/delphi-test.exe"
+}
