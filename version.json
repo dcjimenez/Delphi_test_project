@@ -3,5 +3,5 @@
     "groupId": "com.tests",
     "artifactId": "delphi-test",
     "packaging": "exe",
-    "version": "1.6.0"
+    "version": "1.7.0-SNAPSHOT"
 }
