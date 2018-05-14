@@ -3,5 +3,9 @@
     "groupId": "com.tests",
     "artifactId": "delphi-test",
     "packaging": "exe",
-    "version": "1.9.1"
+    "version": "1.9.1",
+    "dependencies" : [
+        "PR1",
+        "PR2"
+    ]
 }
